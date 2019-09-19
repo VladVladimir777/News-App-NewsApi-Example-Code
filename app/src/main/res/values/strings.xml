@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="item_menu_news">News</string>
+    <string name="item_menu_profile">Profile</string>
+    <string name="item_menu_sign_out">Sign Out</string>
+
+    <string name="activity_authentication_title">Authentication</string>
+    <string name="activity_authentication_email_title">Email</string>
+    <string name="activity_authentication_password_title">Password</string>
+    <string name="activity_authentication_password_confirmation_title">Password Confirmation</string>
+    <string name="activity_authentication_sign_in">Sign In</string>
+    <string name="activity_authentication_sign_up">Sign Up</string>
+    <string name="activity_authentication_registration">Don\'t have an account yet? Register now.</string>
+    <string name="activity_authentication_email_not_valid">Email address is not valid</string>
+    <string name="activity_authentication_password_error">Check password</string>
+    <string name="activity_authentication_failed">Authentication failed</string>
+
+
+    <string name="fragment_profile_title">Profile</string>
+    <string name="fragment_profile_first_name_title">First Name</string>
+    <string name="fragment_profile_last_name_title">Last Name</string>
+    <string name="fragment_profile_phone_number_title">Phone Number</string>
+    <string name="fragment_profile_country_title">Country</string>
+    <string name="fragment_profile_city_title">City</string>
+    <string name="fragment_profile_confirm">Confirm</string>
+    <string name="fragment_profile_change_saved">Change saved</string>
+    <string name="fragment_profile_change_not_saved">Error: %1$s</string>
+
+    <string name="fragment_news_title">News</string>
+
+</resources>
